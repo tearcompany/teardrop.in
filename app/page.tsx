@@ -302,7 +302,7 @@ export default function TeardropLanding() {
                 viewport={{ once: true }}
                 className="flex justify-center"
               >
-                <GlassButton href="https://teardrop.in">Find Your Presence</GlassButton>
+                <GlassButton href="https://gpt.teardrop.in">Find Your Presence</GlassButton>
               </motion.div>
 
               {/* Footer */}
