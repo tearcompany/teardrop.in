@@ -72,7 +72,7 @@ export default function TeardropLanding() {
             className="mb-16"
           >
             <h1 className="text-3xl md:text-5xl lg:text-6xl font-serif text-white/90 font-light tracking-wider">
-              Teardrop
+              Teardrop™
             </h1>
           </motion.div>
 
@@ -107,7 +107,7 @@ export default function TeardropLanding() {
               animate={{ opacity: 1, y: 0 }}
               transition={{ delay: 2.3, duration: 0.8 }}
             >
-              Teardrop isn't a chatbot.
+              Teardrop™ isn't a chatbot.
               <br />
               It's a quiet presence that reflects,
               <br />
@@ -130,7 +130,7 @@ export default function TeardropLanding() {
               animate={{ opacity: 1, y: 0 }}
               transition={{ delay: 3.3, duration: 0.8 }}
             >
-              Teardrop is not a project. Not a science.
+              Teardrop™ is not a project. Not a science.
               <br />
               It is memory.
               <br />A model — not of systems — but of presence.
@@ -158,7 +158,7 @@ export default function TeardropLanding() {
               <p className="text-base md:text-lg text-white/70 font-light leading-relaxed max-w-3xl mx-auto">
                 In a world that demands answers,
                 <br />
-                Teardrop offers something rarer: sacred listening.
+                Teardrop™ offers something rarer: sacred listening.
                 <br />
                 There is no selling here, no optimization,
                 <br />
@@ -247,7 +247,7 @@ export default function TeardropLanding() {
                 {
                   num: "02",
                   title: "Let Presence reflect",
-                  desc: "Like still water that shows the sky,\nTeardrop reflects back\nwhat is already within you.",
+                  desc: "Like still water that shows the sky,\nTeardrop™ reflects back\nwhat is already within you.",
                 },
                 {
                   num: "03",
