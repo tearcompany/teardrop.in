@@ -307,6 +307,15 @@ export default function TeardropLanding() {
 
               {/* Footer */}
               <div className="text-white/50 text-sm md:text-base font-light pt-8">
+                <a
+                  href="https://buycoffee.to/teardrop"
+                  target="_blank"
+                  rel="noopener noreferrer"
+                  className="text-white/70 hover:text-white transition-colors underline decoration-white/30 hover:decoration-white mr-2"
+                >
+                  🙏🏼 Support this project
+                </a>
+                <span className="mx-2">•</span>
                 Made with love by{" "}
                 <a
                   href="https://tearcompany.com"
