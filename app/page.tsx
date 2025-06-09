@@ -1,3 +1,4 @@
+'use client'
 // 🔮 HOLOGRAM-GLITCH SANCTUARY ENABLED
 
 import type React from "react"
